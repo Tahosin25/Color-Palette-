@@ -1,0 +1,50 @@
+
+> color-palette-site@0.1.0 dev
+> next dev
+
+▲ Next.js 16.4.3 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.100:3000
+✓ Ready in 4.4s
+✓ Running next.config.ts took 14.5s
+
+○ Compiling / ...
+ GET / 200 in 79s (next.js: 27.2s, application-code: 52s)
+○ Compiling /create ...
+ GET /create 200 in 4.0s (next.js: 1125ms, application-code: 2.8s)
+ GET /create 200 in 1843ms (next.js: 73ms, application-code: 1770ms)
+ GET /create 200 in 1261ms (next.js: 207ms, application-code: 1054ms)
+○ Compiling /palette/[id] ...
+ GET /create 200 in 1952ms (next.js: 114ms, application-code: 1837ms)
+ GET /palette/p1 200 in 21.9s (next.js: 715ms, generate-params: 6.3s, application-code: 14.9s)
+ GET /palette/p1 200 in 10.2s (next.js: 108ms, generate-params: 476ms, application-code: 9.6s)
+○ Compiling /explore ...
+ GET /create 200 in 2.4s (next.js: 34ms, application-code: 2.4s)
+✓ Finished writing to filesystem cache in 25.5s
+ GET /explore 200 in 2.9s (next.js: 2.2s, application-code: 747ms)
+ GET /about 200 in 4.5s (next.js: 2.9s, application-code: 1598ms)
+ GET /explore 200 in 319ms (next.js: 10ms, application-code: 309ms)
+ GET /create 200 in 835ms (next.js: 39ms, application-code: 796ms)
+ GET / 200 in 2.3s (next.js: 52ms, application-code: 2.3s)
+ GET /explore 200 in 1138ms (next.js: 38ms, application-code: 1100ms)
+ GET /create 200 in 451ms (next.js: 6ms, application-code: 446ms)
+ GET /about 200 in 394ms (next.js: 24ms, application-code: 370ms)
+ GET /create 200 in 173ms (next.js: 7ms, application-code: 166ms)
+ GET /about 200 in 289ms (next.js: 21ms, application-code: 268ms)
+○ Compiling /privacy ...
+ GET /privacy 200 in 1410ms (next.js: 125ms, application-code: 1285ms)
+○ Compiling /contact ...
+ GET /contact 200 in 1525ms (next.js: 390ms, application-code: 1135ms)
+ GET / 200 in 1641ms (next.js: 20ms, application-code: 1621ms)
+✓ Finished writing to filesystem cache in 32.8s
+ GET /palette/p1 200 in 16.3s (next.js: 61ms, generate-params: 415ms, application-code: 15.8s)
+ GET /palette/p1 200 in 14.4s (next.js: 135ms, generate-params: 0.1ms, application-code: 14.3s)
+ GET /palette/p1 200 in 12.3s (next.js: 346ms, generate-params: 0.2ms, application-code: 11.9s)
+✓ Finished filesystem cache database compaction in 13.8s
+ GET / 200 in 37.8s (next.js: 1952ms, application-code: 35.8s)
+ GET / 200 in 18.7s (next.js: 301ms, application-code: 18.4s)
+ GET / 200 in 12.9s (next.js: 137ms, application-code: 12.7s)
+ GET / 200 in 4.0s (next.js: 84ms, application-code: 4.0s)
+ GET / 200 in 4.9s (next.js: 68ms, application-code: 4.8s)
+ GET / 200 in 4.6s (next.js: 27ms, application-code: 4.6s)
+ GET / 200 in 5.5s (next.js: 383ms, application-code: 5.1s)
